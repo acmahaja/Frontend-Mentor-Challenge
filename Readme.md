@@ -2,11 +2,9 @@
 
 ![1673629971617](image/Readme/1673629971617.png)
 
-
-
 | Title                                                  | Difficulty   | Frontend Mentor Link                                                                                                                  | Github Link | Live Link | Done |
 | ------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------- | ---- |
-| Product preview card component                         | NEWBIE       | [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)                                    | Github       | Live      |      |
+| Product preview card component                         | NEWBIE       | [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)                                    | [Github](https://github.com/acmahaja/product-preview-card-component)       | [Live](https://acmahaja.github.io/product-preview-card-component/)      | ✅   |
 | Product preview card component                         | NEWBIE       | [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)                                    | Github       | Live      | ❌   |
 | Skilled e-learning landing page                        | NEWBIE       | [Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q)                                     | Github       | Live      | ❌   |
 | Interactive rating component                           | NEWBIE       | [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)                                       | Github       | Live      | ❌   |
